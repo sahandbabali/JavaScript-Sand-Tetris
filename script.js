@@ -353,11 +353,11 @@ function isInArray(arr, value) {
 const tetrisColors = [
     "#00FFFF",    // Cyan
     "#0000FF",    // Blue
-    // "#FFA500",    // Orange
-    // "#FFFF00",    // Yellow
-    // "#00FF00",    // Green
-    // "#800080",    // Purple
-    // "#FF0000"     // Red
+    "#FFA500",    // Orange
+    "#FFFF00",    // Yellow
+    "#00FF00",    // Green
+    "#800080",    // Purple
+    "#FF0000"     // Red
 ];
 
 

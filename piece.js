@@ -19,7 +19,7 @@ class Piece {
         this.y = 0;
 
         // gravity
-        this.dropInterval = 500 // in ms
+        this.dropInterval = 300 // in ms
         this.dropBuffer = 0; // time since last drop
 
     }
